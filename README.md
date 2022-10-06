@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Te-ne
 - 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning Data Wrangling and Visualization
 - 📫 How to reach me: te.ne.sha717@gmail.com
 
 <!---
